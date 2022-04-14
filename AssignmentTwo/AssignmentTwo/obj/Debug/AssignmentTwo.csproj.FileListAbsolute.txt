@@ -1,0 +1,6 @@
+C:\Users\Administratör\Desktop\malmo c# assignment\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.exe.config
+C:\Users\Administratör\Desktop\malmo c# assignment\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.exe
+C:\Users\Administratör\Desktop\malmo c# assignment\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.pdb
+C:\Users\Administratör\Desktop\malmo c# assignment\AssignmentTwo\AssignmentTwo\obj\Debug\AssignmentTwo.csprojResolveAssemblyReference.cache
+C:\Users\Administratör\Desktop\malmo c# assignment\AssignmentTwo\AssignmentTwo\obj\Debug\AssignmentTwo.exe
+C:\Users\Administratör\Desktop\malmo c# assignment\AssignmentTwo\AssignmentTwo\obj\Debug\AssignmentTwo.pdb
